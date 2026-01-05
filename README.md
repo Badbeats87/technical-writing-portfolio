@@ -1,41 +1,64 @@
 # Technical Writing Portfolio
 
-Welcome to my technical writing portfolio. This collection showcases my expertise in creating clear, comprehensive documentation for complex software systems. The samples are organized by category to highlight different writing styles and skills.
+Technical writer with expertise in enterprise software documentation. This portfolio demonstrates my ability to create clear, comprehensive documentation for complex systems across multiple documentation types.
 
-## Portfolio Organization
+## Samples Included
 
 ### 1. Instructional Guides
 Step-by-step procedural documentation with clear prerequisites, numbered steps, verification methods, and troubleshooting guidance.
 
+- Use Mass Update to Modify People
+- Set Up Base Configuration
+- Use Two-Factor Authentication
+- Bid on Shifts
+
 ### 2. Best Practices
-Scenario-based guidance that helps users understand when and how to use features effectively, with multiple approaches, trade-offs, and decision-support framing.
+Scenario-based guidance that helps users understand when and how to use features effectively, with multiple approaches and trade-off analysis.
+
+- Resolve Scheduling Errors
+- Schedule Multiskill Agents
+- Working with Day Models
+- Ensure Fairness in Scheduling
+- Schedule Split Shifts
 
 ### 3. Feature Documentation
-Comprehensive explanations of complex features from multiple angles, including feature overview, configuration options, examples, and multiple user perspectives.
+Comprehensive feature explanations from multiple angles, including configuration options, examples, and multiple user perspectives.
+
+- Intraday Adherence
+- Real-Time Adherence
+- How Integrations Work
+- Edit or Delete Staff Requirements
 
 ### 4. Reference Material
-Conceptual documentation with clear system explanations, relationship documentation, logic tables, decision trees, and edge case handling.
+Conceptual documentation with system explanations, logic tables, decision trees, and edge case handling.
 
-### 5. Troubleshooting and Support
-Documentation that helps users resolve issues and understand complex setup processes, with problem diagnosis, configuration guidance, and system integration explanations.
+- Mass Update Overview
+- Contracts
+- Shift Sequences
+- Understand Approval Policies
 
-## Key Writing Skills Demonstrated
+### 5. Troubleshooting & Support
+Problem diagnosis guides and configuration procedures for complex system integration.
 
-- **Procedural Documentation:** Clear step-by-step instructions with prerequisites, verification, and troubleshooting
-- **Complex Feature Documentation:** Making intricate enterprise features understandable with multiple perspectives
-- **Scenario-Based Guidance:** Scenario-driven documentation that helps users understand when and how to use features effectively
-- **Reference Material:** Well-organized conceptual documentation, decision trees, and reference tables
-- **Troubleshooting & Support:** Problem diagnosis and configuration guidance for complex system integration
-- **Information Architecture:** Effective linking, cross-references, and content organization
+- Complex Integration Setup Example
 
-## About the Original Documentation
+## Key Writing Skills
 
-This portfolio is drawn from a comprehensive workforce management system documentation. The system manages complex workforce scheduling, optimization, and compliance features. These pieces demonstrate my ability to document sophisticated enterprise software.
+- **Procedural Documentation** - Clear step-by-step instructions with prerequisites and verification
+- **Feature Documentation** - Complex features explained from multiple user perspectives
+- **Troubleshooting Guides** - Multi-layered problem diagnosis and resolution procedures
+- **Best Practices** - Scenario-based guidance with decision support
+- **Reference Material** - Conceptual documentation with tables and examples
+- **Information Architecture** - Clear organization and cross-references for large documentation sets
 
-## Contact
+## Featured Examples
 
-For questions about my technical writing, please reach out.
+**Resolve Scheduling Errors** - Comprehensive troubleshooting guide with diagnostic procedures, error reference tables, and configuration checklists demonstrating multi-layered problem resolution.
+
+**Intraday Adherence** - Feature documentation covering sophisticated metrics and reporting from multiple user perspectives, showing how to explain complex calculations with examples and FAQs.
+
+**Integration Setup** - Technical configuration guide with data mapping procedures and edge case explanations showing complex system integration made accessible.
 
 ---
 
-*Last updated: January 2026*
+For inquiries about technical writing work, feel free to reach out.
