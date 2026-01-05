@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Featured Works | Technical Writing Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">Technical Writing Portfolio</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#featured">Featured Works</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section class="section">
+            <div class="container">
+                <h1>Featured Works</h1>
+                <p>A curated selection of my strongest documentation samples that showcase complex technical writing, troubleshooting guidance, and enterprise software documentation.</p>
+
+                <div class="featured-works">
+                    <article class="featured-item">
+                        <h2>Resolve Scheduling Errors</h2>
+                        <div class="meta">Category: Best Practices & Troubleshooting | Type: Complex Problem Resolution</div>
+                        <p><strong>What it showcases:</strong></p>
+                        <ul>
+                            <li>Multi-layered troubleshooting approach (diagnostic reports, system messages, configuration checks)</li>
+                            <li>Comprehensive error reference with solutions for 12+ error scenarios</li>
+                            <li>Clear organization of complex configuration requirements</li>
+                            <li>User-centric guidance that helps readers solve problems independently</li>
+                        </ul>
+                        <p><strong>Key techniques:</strong></p>
+                        <ul>
+                            <li>Color-coded analysis approach (black/blue/red text meanings)</li>
+                            <li>Nested troubleshooting steps that guide users through multiple diagnostic paths</li>
+                            <li>Reference table with error messages and solutions</li>
+                            <li>Configuration checklist across multiple system areas</li>
+                        </ul>
+                        <p><em>Full document available in repository: 2_Best_Practices/01_Resolve_Scheduling_Errors.md</em></p>
+                    </article>
+
+                    <article class="featured-item">
+                        <h2>Intraday Adherence</h2>
+                        <div class="meta">Category: Feature Documentation | Type: Multi-Perspective Feature Explanation</div>
+                        <p><strong>What it showcases:</strong></p>
+                        <ul>
+                            <li>Complex feature documentation from multiple user perspectives</li>
+                            <li>Making sophisticated metrics (adherence scoring, intervals) accessible</li>
+                            <li>Advanced use cases (CSV export, timezone considerations)</li>
+                            <li>FAQ section that anticipates and addresses user questions</li>
+                        </ul>
+                        <p><strong>Key techniques:</strong></p>
+                        <ul>
+                            <li>Feature overview with clear business purpose</li>
+                            <li>Step-by-step instructions for basic usage</li>
+                            <li>Detailed explanation of calculation methods and scoring logic</li>
+                            <li>Advanced features section with data export and reporting</li>
+                            <li>FAQ addressing edge cases (timezone handling, data availability)</li>
+                        </ul>
+                        <p><em>Full document available in repository: 3_Feature_Documentation/01_Intraday_Adherence.md</em></p>
+                    </article>
+
+                    <article class="featured-item">
+                        <h2>Complex Integration Setup (8X8 ACD Example)</h2>
+                        <div class="meta">Category: Feature Documentation | Type: Technical Configuration Guide</div>
+                        <p><strong>What it showcases:</strong></p>
+                        <ul>
+                            <li>Technical integration documentation with clear step-by-step setup</li>
+                            <li>Complex data mapping and transformation logic made understandable</li>
+                            <li>Professional handling of edge cases and known limitations</li>
+                            <li>Multiple data flow explanations with technical detail</li>
+                        </ul>
+                        <p><strong>Key techniques:</strong></p>
+                        <ul>
+                            <li>Progressive disclosure (basic setup first, then advanced configuration)</li>
+                            <li>Data mapping tables showing source-to-destination transformations</li>
+                            <li>Known issues section with explanations of why they occur</li>
+                            <li>Technical calculations documented clearly (e.g., AHT calculation)</li>
+                            <li>Clear prerequisite links (references to integration basics)</li>
+                        </ul>
+                        <p><em>Full document available in repository: 5_Troubleshooting_and_Support/01_Complex_Integration_Setup.md</em></p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <h2>Complete Portfolio</h2>
+                <p>See all documentation organized by category.</p>
+                <div class="portfolio-grid">
+                    <div class="portfolio-card">
+                        <h3>Instructional Guides</h3>
+                        <p>Step-by-step procedures with clear prerequisites and verification</p>
+                        <p><a href="index.html#portfolio">Browse</a></p>
+                    </div>
+                    <div class="portfolio-card">
+                        <h3>Best Practices</h3>
+                        <p>Scenario-based guidance with multiple approaches</p>
+                        <p><a href="index.html#portfolio">Browse</a></p>
+                    </div>
+                    <div class="portfolio-card">
+                        <h3>Feature Documentation</h3>
+                        <p>Complex features explained from multiple perspectives</p>
+                        <p><a href="index.html#portfolio">Browse</a></p>
+                    </div>
+                    <div class="portfolio-card">
+                        <h3>Reference Material</h3>
+                        <p>Conceptual documentation with decision trees and tables</p>
+                        <p><a href="index.html#portfolio">Browse</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Alexis Braine. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <style>
+        .featured-works {
+            margin-top: 2rem;
+        }
+
+        .featured-item {
+            background: var(--light);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-left: 4px solid var(--secondary);
+            border-radius: 4px;
+        }
+
+        .featured-item h2 {
+            color: var(--secondary);
+            margin-bottom: 0.5rem;
+            font-size: 1.5rem;
+        }
+
+        .meta {
+            font-size: 0.9rem;
+            color: #666;
+            font-style: italic;
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .featured-item ul {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .featured-item li {
+            margin-bottom: 0.5rem;
+        }
+
+        .featured-item p strong {
+            color: var(--primary);
+        }
+
+        .featured-item .btn {
+            display: inline-block;
+            margin-top: 0;
+        }
+    </style>
+</body>
+</html>
