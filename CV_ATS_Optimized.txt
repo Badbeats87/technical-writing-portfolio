@@ -1,0 +1,82 @@
+ALEXIS BRAINE
+Technical Writer | Documentation Specialist
+
+CONTACT
+Phone: +49 176 55375407
+Email: alexis.b.f.braine@gmail.com
+Location: Leipzig, Germany
+GitHub: github.com/Badbeats87/technical-writing-portfolio
+
+PROFESSIONAL SUMMARY
+Technical Writer with 13+ years of experience creating clear, comprehensive documentation for complex software systems. Proven expertise in software localization, technical documentation, and user guides. Bilingual (French/English) with written German proficiency. Skilled in enterprise documentation, troubleshooting guides, feature documentation, and information architecture. Track record of producing accessible documentation for both technical and non-technical audiences.
+
+CORE COMPETENCIES
+Technical Writing | Feature Documentation | Procedural Documentation | API Documentation | Troubleshooting Guides | Software Localization | User Guides | Help Center Management | Information Architecture | Markdown | Docs as Code | Proofreading | Project Management | Linguistic Management | Knowledge Base Development | Translation (English/German to French)
+
+PROFESSIONAL EXPERIENCE
+
+Technical Writer and Translator
+InVision AG | Leipzig, Germany | July 2022 - Present
+• Create and maintain technical documentation for enterprise workforce management software
+• Write procedural guides, feature documentation, and troubleshooting documentation
+• Translate technical documentation and Help Center articles from English to French
+• Localize software products for international audiences
+• Develop new Help Center articles for complex system features
+• Manage technical writing projects and translation workflows
+• Maintain glossaries and translation memories for consistent terminology
+
+Freelance Translator
+Self-employed | Berlin, Paris | 2011 - 2018
+• Translated and proofread 50+ technical, legal, economic, financial, and administrative documents from German and English to French
+• Managed translation projects for multiple corporate clients
+• Created and maintained specialized glossaries and translation memories for various domains
+• Provided subtitling for educational and corporate training materials
+• Coordinated with clients on project timelines and deliverables
+
+French Linguist
+TransPerfect | Berlin | March 2018 - October 2021
+• Translated and proofread Life Science and Legal documents from German and English to French
+• Reviewed and edited translated technical content for accuracy and clarity
+• Developed and maintained domain-specific glossaries and translation memories
+• Specialized in terminology management for legal and scientific documentation
+
+French Translator
+Pamono GmbH | Berlin | April 2017 - March 2018
+• Translated product descriptions, website articles, and marketing content from English to French
+• Localized e-commerce product catalogs for French market
+• Ensured consistent brand voice and terminology across all translated materials
+
+French Translator
+Hem GmbH | Berlin | May 2014 - March 2016
+• Translated product descriptions, stories, articles, and newsletters from English to French
+• Implemented translated content into company CMS systems
+• Proofread and quality-checked previously translated materials
+• Maintained 98%+ accuracy rate on all translations
+
+EDUCATION
+Master's Degree in Legal and Economic Translation, English and German
+Université de Cergy-Pontoise | 2012 - 2014
+
+Bachelor in Applied Foreign Languages
+Université de Cergy-Pontoise | 2009 - 2012
+
+TECHNICAL SKILLS
+Documentation Tools: Markdown, Docs as Code, Confluence, GitHub
+Translation Software: Trados Studio, MemoQ, WebTranslateIt, Phrase
+Project Management: Jira, GitHub, Confluence
+Development Basics: HTML, Python, C++, Java
+CMS Platforms: Standard CMS systems
+Version Control: Git, GitHub
+
+LANGUAGE PROFICIENCY
+French (Native)
+English (Fluent - Professional Working)
+German (Professional Working - Written)
+
+ADDITIONAL SKILLS
+Project Management | Linguistic Management | Technical Proofreading | Glossary Development | Translation Memory Management | Software Localization | Content Management Systems
+
+INTERESTS
+Personal Finance & Investment (Stocks, ETFs, Cryptocurrency)
+Self-taught Programming (HTML, Python, C++, Java)
+Mathematics for Computer Science
