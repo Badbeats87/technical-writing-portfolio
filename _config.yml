@@ -31,3 +31,11 @@ exclude:
   - package.json
   - package-lock.json
   - README_SETUP.md
+  - SETUP_GUIDE.md
+  - PORTFOLIO_GUIDE.md
+  - Alexis_Braine_CV_2025.pdf
+  - 1_Instructional_Guides
+  - 2_Best_Practices
+  - 3_Feature_Documentation
+  - 4_Reference_Material
+  - 5_Troubleshooting_and_Support
