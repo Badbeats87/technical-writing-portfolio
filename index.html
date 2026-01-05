@@ -3,93 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technical Writing Portfolio | Alexis Braine</title>
+    <title>Alexis Braine | Technical Writing</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <nav class="navbar">
         <div class="container">
-            <div class="logo">Technical Writing Portfolio</div>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="featured.html">Featured Works</a></li>
-                <li><a href="#portfolio">Categories</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+            <h1 class="logo">Alexis Braine</h1>
+            <p class="tagline">Technical Writing Portfolio</p>
         </div>
     </nav>
 
-    <header class="hero">
-        <div class="container">
-            <h1>Technical Writing Portfolio</h1>
-            <p>Clear, comprehensive documentation for complex software systems</p>
-        </div>
-    </header>
-
     <main>
-        <section id="about" class="section">
+        <section class="intro">
             <div class="container">
-                <h2>About</h2>
-                <p>I create clear, comprehensive documentation for complex software systems. My writing focuses on making intricate enterprise features accessible to both technical and non-technical audiences.</p>
+                <h2>Technical Writer</h2>
+                <p>I create clear, comprehensive documentation for complex software systems. My work makes enterprise features accessible to both technical and non-technical audiences.</p>
+            </div>
+        </section>
 
-                <div class="skills">
-                    <h3>Core Competencies</h3>
-                    <ul>
-                        <li>Procedural Documentation</li>
-                        <li>Feature Documentation</li>
-                        <li>Scenario-Based Guidance</li>
-                        <li>Reference Material</li>
-                        <li>Troubleshooting Guides</li>
-                        <li>Information Architecture</li>
-                    </ul>
+        <section class="featured">
+            <div class="container">
+                <h2>Featured Work</h2>
+                <p class="section-intro">Three examples of my strongest documentation:</p>
+
+                <div class="samples">
+                    <div class="sample">
+                        <h3>Resolve Scheduling Errors</h3>
+                        <p class="sample-type">Troubleshooting & Problem Resolution</p>
+                        <p>A comprehensive troubleshooting guide that helps users diagnose and resolve scheduling issues. Features color-coded error analysis, multi-layered diagnostic procedures, and reference tables with solutions for 12+ error scenarios.</p>
+                        <p class="file-path">2_Best_Practices/01_Resolve_Scheduling_Errors.md</p>
+                    </div>
+
+                    <div class="sample">
+                        <h3>Intraday Adherence</h3>
+                        <p class="sample-type">Feature Documentation</p>
+                        <p>Multi-perspective feature documentation covering adherence tracking and reporting. Demonstrates how to explain sophisticated metrics (scoring, intervals, timezone handling) to diverse user audiences with step-by-step instructions and advanced use cases.</p>
+                        <p class="file-path">3_Feature_Documentation/01_Intraday_Adherence.md</p>
+                    </div>
+
+                    <div class="sample">
+                        <h3>Integration Setup Guide</h3>
+                        <p class="sample-type">Technical Configuration</p>
+                        <p>Technical integration documentation with step-by-step setup, data mapping tables, and configuration procedures. Shows how to make complex system integrations understandable with progressive disclosure and clear explanations of edge cases.</p>
+                        <p class="file-path">5_Troubleshooting_and_Support/01_Complex_Integration_Setup.md</p>
+                    </div>
+                </div>
+
+                <div class="cta">
+                    <a href="https://github.com/Badbeats87/technical-writing-portfolio" target="_blank" class="btn">View All Documents on GitHub</a>
                 </div>
             </div>
         </section>
 
-        <section id="portfolio" class="section">
+        <section class="categories">
             <div class="container">
                 <h2>Documentation Categories</h2>
-                <p>My portfolio covers five key categories of technical documentation:</p>
+                <p class="section-intro">My portfolio includes five types of technical documentation:</p>
 
-                <div class="portfolio-grid">
-                    <div class="portfolio-card">
+                <div class="category-list">
+                    <div class="category">
                         <h3>Instructional Guides</h3>
-                        <p>Step-by-step procedural documentation with clear prerequisites, numbered steps, verification methods, and troubleshooting.</p>
+                        <p>Step-by-step procedures with clear prerequisites, numbered steps, and verification methods.</p>
                     </div>
-
-                    <div class="portfolio-card">
+                    <div class="category">
                         <h3>Best Practices</h3>
-                        <p>Scenario-based guidance that helps users understand when and how to use features effectively, with multiple approaches and trade-offs.</p>
+                        <p>Scenario-based guidance with multiple approaches and trade-off analysis to help users make decisions.</p>
                     </div>
-
-                    <div class="portfolio-card">
+                    <div class="category">
                         <h3>Feature Documentation</h3>
-                        <p>Comprehensive explanations of complex features from multiple angles, including configuration options, examples, and user perspectives.</p>
+                        <p>Comprehensive feature explanations from multiple perspectives with examples and advanced use cases.</p>
                     </div>
-
-                    <div class="portfolio-card">
+                    <div class="category">
                         <h3>Reference Material</h3>
-                        <p>Conceptual documentation with system explanations, logic tables, decision trees, and edge case handling.</p>
+                        <p>Conceptual documentation with system explanations, decision trees, and reference tables.</p>
                     </div>
-
-                    <div class="portfolio-card">
-                        <h3>Troubleshooting & Support</h3>
-                        <p>Problem resolution guides with diagnosis procedures, configuration guidance, and complex system integration explanations.</p>
+                    <div class="category">
+                        <h3>Troubleshooting Guides</h3>
+                        <p>Problem diagnosis and resolution guides with configuration procedures and integration explanations.</p>
                     </div>
-                </div>
-
-                <div class="cta-buttons">
-                    <a href="featured.html" class="btn">View Featured Works</a>
-                    <a href="https://github.com/Badbeats87/technical-writing-portfolio" target="_blank" class="btn">View All Documents</a>
                 </div>
             </div>
         </section>
 
-        <section id="contact" class="section">
+        <section class="contact">
             <div class="container">
                 <h2>Get in Touch</h2>
-                <p>Interested in discussing technical writing or collaboration opportunities?</p>
-                <p><a href="mailto:your.email@example.com" class="btn">Contact Me</a></p>
+                <p>Interested in discussing technical writing opportunities?</p>
+                <a href="mailto:your.email@example.com" class="btn">Contact Me</a>
             </div>
         </section>
     </main>
