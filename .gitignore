@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+vendor/
+_site/
+.bundle/
+.jekyll-cache/
+*.log
+.env
+.env.local

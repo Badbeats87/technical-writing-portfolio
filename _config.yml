@@ -1,0 +1,33 @@
+title: Technical Writing Portfolio
+description: Clear, comprehensive documentation for complex software systems
+author: Alexis Braine
+email: your.email@example.com
+
+# GitHub Pages settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processor
+markdown: kramdown
+
+# Permalink structure
+permalink: /:title/
+
+# Collections for organizing content
+collections:
+  samples:
+    output: true
+    permalink: /samples/:path/
+
+exclude:
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - README_SETUP.md
